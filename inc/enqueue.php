@@ -4,8 +4,6 @@ function vinjouretnuit_register_assets() {
     wp_register_style('plugins', get_template_directory_uri() . '/assets/css/plugins.css');
     wp_register_style('style', get_template_directory_uri() . '/assets/css/style.css');
 
-    wp_register_script('my-jquery', get_template_directory_uri() . '/assets/js/jquery-3.6.0.min.js', [], false, true);
-    wp_register_script('my-jquery-migrate', get_template_directory_uri() . '/assets/js/jquery-migrate-3.0.0.min.js', [], false, true);
     wp_register_script('modernizr', get_template_directory_uri() . '/assets/js/modernizr-2.6.2.min.js', [], false, true);
     wp_register_script('imagesloaded', get_template_directory_uri() . '/assets/js/imagesloaded.pkgd.min.js', [], false, true);
     wp_register_script('jquery-isotope', get_template_directory_uri() . '/assets/js/jquery.isotope.v3.0.2.js', [], false, true);
@@ -26,8 +24,7 @@ function vinjouretnuit_register_assets() {
     wp_enqueue_style('plugins');
     wp_enqueue_style('style');
     
-    wp_enqueue_script('my-jquery');
-    wp_enqueue_script('my-jquery-migrate');
+    wp_enqueue_script('jquery');
     wp_enqueue_script('modernizr');
     wp_enqueue_script('imagesloaded');
     wp_enqueue_script('jquery-isotope');
