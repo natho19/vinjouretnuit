@@ -6,7 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <title>Vins Jour et Nuit</title>
-    <!-- <link rel="shortcut icon" href="img/favicon.png" /> -->
+    <link rel="shortcut icon" href="img/favicon.png" />
+    <link rel="shortcut icon" href="<?= VJN_IMG_LOCATION . '/favicon.png' ?>" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&amp;family=Pinyon+Script&amp;display=swap">
     <?php wp_head() ?>
 </head>
@@ -25,7 +26,7 @@
             <!-- Logo -->
             <div class="logo-wrapper">
                 <a class="logo" href="index.html">
-                    <!-- <img src="img/logo.png" class="logo-img" alt="Logo"> -->
+                    <img src="<?= VJN_IMG_LOCATION . '/logo.png' ?>" class="logo-img" alt="Logo">
                 </a>
             </div>
             <!-- Button -->
@@ -36,9 +37,9 @@
             <!-- Menu -->
             <div class="collapse navbar-collapse" id="navbar">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
-                    <li class="nav-item"><a class="nav-link" href="wine.html">Wine</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Wine</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
                 </ul>
             </div>
         </div>
