@@ -5,7 +5,6 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <title>Vins Jour et Nuit</title>
     <link rel="shortcut icon" href="img/favicon.png" />
     <link rel="shortcut icon" href="<?= VJN_IMG_LOCATION . '/favicon.png' ?>" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&amp;family=Pinyon+Script&amp;display=swap">
@@ -39,7 +38,7 @@
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/">Accueil</a></li>
                     <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/a-propos/">A propos</a></li>
-                    <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/vins/">Vins</a></li>
+                    <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/nos-vins/">Nos vins</a></li>
                     <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/blog/">Blog</a></li>
                     <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/contact/">Contact</a></li>
                 </ul>
