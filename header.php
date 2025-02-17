@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html <?php language_attributes() ?>>
 
 <head>
     <meta charset="utf-8">
@@ -25,7 +25,7 @@
         <div class="container">
             <!-- Logo -->
             <div class="logo-wrapper">
-                <a class="logo" href="index.html">
+                <a class="logo" href="http://localhost/vinjouretnuit/">
                     <img src="<?= VJN_IMG_LOCATION . '/logo.png' ?>" class="logo-img" alt="Logo">
                 </a>
             </div>
@@ -37,9 +37,11 @@
             <!-- Menu -->
             <div class="collapse navbar-collapse" id="navbar">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link" href="#">About</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Wine</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/">Accueil</a></li>
+                    <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/a-propos/">A propos</a></li>
+                    <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/vins/">Vins</a></li>
+                    <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/blog/">Blog</a></li>
+                    <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/contact/">Contact</a></li>
                 </ul>
             </div>
         </div>
