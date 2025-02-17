@@ -5,8 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <link rel="shortcut icon" href="img/favicon.png" />
-    <link rel="shortcut icon" href="<?= VJN_IMG_LOCATION . '/favicon.png' ?>" />
+    <link rel="shortcut icon" href="<?= VJN_IMG_URL . '/favicon.png' ?>" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&amp;family=Pinyon+Script&amp;display=swap">
     <?php wp_head() ?>
 </head>
@@ -25,7 +24,7 @@
             <!-- Logo -->
             <div class="logo-wrapper">
                 <a class="logo" href="http://localhost/vinjouretnuit/">
-                    <img src="<?= VJN_IMG_LOCATION . '/logo.png' ?>" class="logo-img" alt="Logo">
+                    <img src="<?= VJN_IMG_URL . '/logo.png' ?>" class="logo-img" alt="Logo">
                 </a>
             </div>
             <!-- Button -->
