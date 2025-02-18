@@ -1,0 +1,4 @@
+- Voir si c'est possible de changer l'arrière plan des pages de manière dynamique et simple
+- Utiliser les templates de page ou les fichiers page-$variable ? Vérifier la compatibilité avec ACF
+- 2 catégories pour les actualités = Blog, Events
+- Single

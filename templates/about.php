@@ -3,7 +3,7 @@
 <?php get_header() ?>
 
 <!-- Header Banner -->
-<div class="banner-header valign bg-img bg-fixed" data-overlay-dark="6" data-background="<?= VJN_IMG_URL . '/slider/7.jpg' ?>">
+<div class="banner-header valign bg-img bg-fixed" data-overlay-dark="6" data-background="<?= VJN_IMG_URL . '/banner2.jpg' ?>">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center caption mt-60">
