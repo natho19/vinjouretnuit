@@ -34,4 +34,63 @@
     </div>
 </section>
 
+<!-- Team -->
+<section class="team section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-head text-center">
+                    <div class="section-title white">Notre équipe</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="owl-carousel owl-theme">
+                    <div class="team-card mb-30">
+                        <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/chef2.jpg' ?>" alt="" class="w-100"></div>
+                        <div class="team-content">
+                            <h3 class="team-title">Raphael Moss<span>Executive Head Chef</span></h3>
+                            <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien arcuman ontese auctor ac aleuam aretra.</p>
+                        </div>
+                        <div class="title-box">
+                            <h3 class="mb-0">Raphael Moss<span>Executive Head Chef</span></h3>
+                        </div>
+                    </div>
+                    <div class="team-card mb-30">
+                        <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/chef1.jpg' ?>" alt="" class="w-100"></div>
+                        <div class="team-content">
+                            <h3 class="team-title">Raphael Moss<span>Executive Head Chef</span></h3>
+                            <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien arcuman ontese auctor ac aleuam aretra.</p>
+                        </div>
+                        <div class="title-box">
+                            <h3 class="mb-0">Raphael Moss<span>Executive Head Chef</span></h3>
+                        </div>
+                    </div>
+                    <div class="team-card mb-30">
+                        <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/chef2.jpg' ?>" alt="" class="w-100"></div>
+                        <div class="team-content">
+                            <h3 class="team-title">Raphael Moss<span>Executive Head Chef</span></h3>
+                            <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien arcuman ontese auctor ac aleuam aretra.</p>
+                        </div>
+                        <div class="title-box">
+                            <h3 class="mb-0">Raphael Moss<span>Executive Head Chef</span></h3>
+                        </div>
+                    </div>
+                    <div class="team-card mb-30">
+                        <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/chef3.jpg' ?>" alt="" class="w-100"></div>
+                        <div class="team-content">
+                            <h3 class="team-title">Raphael Moss<span>Executive Head Chef</span></h3>
+                            <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien arcuman ontese auctor ac aleuam aretra.</p>
+                        </div>
+                        <div class="title-box">
+                            <h3 class="mb-0">Raphael Moss<span>Executive Head Chef</span></h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <?php get_footer() ?>
