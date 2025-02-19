@@ -26,7 +26,7 @@
                     </div>
                     <div class="con">
                         <span class="category">
-                            <a href="#">Mains</a>
+                            <a href="#">Actualités</a>
                         </span>
                         <h5><a href="http://localhost/vinjouretnuit/bonjour-tout-le-monde/">New York Strip Steak with Garlic Butter</a></h5>
                     </div>
@@ -43,7 +43,7 @@
                     </div>
                     <div class="con">
                         <span class="category">
-                            <a href="#">Mains</a>
+                            <a href="#">Evènements</a>
                         </span>
                         <h5><a href="http://localhost/vinjouretnuit/bonjour-tout-le-monde/">New York Strip Steak with Garlic Butter</a></h5>
                     </div>
