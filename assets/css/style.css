@@ -3060,7 +3060,7 @@ button.mfp-arrow {
     position: relative;
     background: transparent;
     padding: 30px;
-    margin-bottom: 90px;
+    /* margin-bottom: 90px; */
 }
 .testimonials-box .head-box {
     position: relative;
@@ -3104,7 +3104,7 @@ button.mfp-arrow {
 }
 @media screen and (max-width: 991px) {
     .testimonials-box {
-        margin-bottom: 90px;
+        /* margin-bottom: 90px; */
         padding: 35px 20px;
     }
 }
