@@ -99,4 +99,41 @@
     </div>
 </section>
 
+<!-- Faqs -->
+<section class="section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="accordion-box clearfix">
+                    <li class="accordion block">
+                        <div class="acc-btn size-20">How can I book private dinner?</div>
+                        <div class="acc-content">
+                            <div class="content">
+                                <div class="text">Restaurant ut nisl quam nestibulum ac quam nec odio elementum sceisue the aucan ligula. Orci varius natoque penatibus et magnis dis parturient monte nascete ridiculus mus nellentesque habitant morbine.</div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="accordion block">
+                        <div class="acc-btn size-20">How frequently do you change the menu?</div>
+                        <div class="acc-content">
+                            <div class="content">
+                                <div class="text">Restaurant ut nisl quam nestibulum ac quam nec odio elementum sceisue the aucan ligula. Orci varius natoque penatibus et magnis dis parturient monte nascete ridiculus mus nellentesque habitant morbine.</div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="accordion block">
+                        <div class="acc-btn size-20">How do I change / cancel a reservation?</div>
+                        <div class="acc-content">
+                            <div class="content">
+                                <div class="text">Restaurant ut nisl quam nestibulum ac quam nec odio elementum sceisue the aucan ligula. Orci varius natoque penatibus et magnis dis parturient monte nascete ridiculus mus nellentesque habitant morbine.</div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</section>
+
 <?php get_footer() ?>
