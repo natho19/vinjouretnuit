@@ -81,7 +81,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="section-head text-center">
-                    <div class="section-title white">Regarder notre vidéo</div>
+                    <div class="section-title white">Vidéo de Présentation</div>
                 </div>
             </div>
         </div>
