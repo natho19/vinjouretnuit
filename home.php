@@ -18,7 +18,7 @@
             <div class="col-md-4 mb-30">
                 <div class="item">
                     <div class="position-re o-hidden">
-                        <a href="http://localhost/vinjouretnuit/bonjour-tout-le-monde/"><img src="<?= VJN_IMG_URL . '/news/1.jpg' ?>" alt=""></a>
+                        <a href="#"><img src="<?= VJN_IMG_URL . '/news/1.jpg' ?>" alt=""></a>
                         <div class="date">
                             <span>Dec</span>
                             <i>27</i>
@@ -28,14 +28,14 @@
                         <span class="category">
                             <a href="#">Actualités</a>
                         </span>
-                        <h5><a href="http://localhost/vinjouretnuit/bonjour-tout-le-monde/">New York Strip Steak with Garlic Butter</a></h5>
+                        <h5><a href="#">New York Strip Steak with Garlic Butter</a></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 mb-30">
                 <div class="item">
                     <div class="position-re o-hidden">
-                        <a href="http://localhost/vinjouretnuit/bonjour-tout-le-monde/"><img src="<?= VJN_IMG_URL . '/news/2.jpg' ?>" alt=""></a>
+                        <a href="#"><img src="<?= VJN_IMG_URL . '/news/2.jpg' ?>" alt=""></a>
                         <div class="date">
                             <span>Dec</span>
                             <i>27</i>
@@ -45,14 +45,14 @@
                         <span class="category">
                             <a href="#">Evènements</a>
                         </span>
-                        <h5><a href="http://localhost/vinjouretnuit/bonjour-tout-le-monde/">New York Strip Steak with Garlic Butter</a></h5>
+                        <h5><a href="#">New York Strip Steak with Garlic Butter</a></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 mb-30">
                 <div class="item">
                     <div class="position-re o-hidden">
-                        <a href="http://localhost/vinjouretnuit/bonjour-tout-le-monde/"><img src="<?= VJN_IMG_URL . '/news/3.jpg' ?>" alt=""></a>
+                        <a href="#"><img src="<?= VJN_IMG_URL . '/news/3.jpg' ?>" alt=""></a>
                         <div class="date">
                             <span>Dec</span>
                             <i>27</i>
@@ -62,14 +62,14 @@
                         <span class="category">
                             <a href="#">Mains</a>
                         </span>
-                        <h5><a href="http://localhost/vinjouretnuit/bonjour-tout-le-monde/">New York Strip Steak with Garlic Butter</a></h5>
+                        <h5><a href="#">New York Strip Steak with Garlic Butter</a></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 mb-30">
                 <div class="item">
                     <div class="position-re o-hidden">
-                        <a href="http://localhost/vinjouretnuit/bonjour-tout-le-monde/"><img src="<?= VJN_IMG_URL . '/news/4.jpg' ?>" alt=""></a>
+                        <a href="#"><img src="<?= VJN_IMG_URL . '/news/4.jpg' ?>" alt=""></a>
                         <div class="date">
                             <span>Dec</span>
                             <i>27</i>
@@ -79,14 +79,14 @@
                         <span class="category">
                             <a href="#">Mains</a>
                         </span>
-                        <h5><a href="http://localhost/vinjouretnuit/bonjour-tout-le-monde/">New York Strip Steak with Garlic Butter</a></h5>
+                        <h5><a href="#">New York Strip Steak with Garlic Butter</a></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 mb-30">
                 <div class="item">
                     <div class="position-re o-hidden">
-                        <a href="http://localhost/vinjouretnuit/bonjour-tout-le-monde/"><img src="<?= VJN_IMG_URL . '/news/5.jpg' ?>" alt=""></a>
+                        <a href="#"><img src="<?= VJN_IMG_URL . '/news/5.jpg' ?>" alt=""></a>
                         <div class="date">
                             <span>Dec</span>
                             <i>27</i>
@@ -96,14 +96,14 @@
                         <span class="category">
                             <a href="#">Mains</a>
                         </span>
-                        <h5><a href="http://localhost/vinjouretnuit/bonjour-tout-le-monde/">New York Strip Steak with Garlic Butter</a></h5>
+                        <h5><a href="#">New York Strip Steak with Garlic Butter</a></h5>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 mb-30">
                 <div class="item">
                     <div class="position-re o-hidden">
-                        <a href="http://localhost/vinjouretnuit/bonjour-tout-le-monde/"><img src="<?= VJN_IMG_URL . '/news/6.jpg' ?>" alt=""></a>
+                        <a href="#"><img src="<?= VJN_IMG_URL . '/news/6.jpg' ?>" alt=""></a>
                         <div class="date">
                             <span>Dec</span>
                             <i>27</i>
@@ -113,7 +113,7 @@
                         <span class="category">
                             <a href="#">Mains</a>
                         </span>
-                        <h5><a href="http://localhost/vinjouretnuit/bonjour-tout-le-monde/">New York Strip Steak with Garlic Butter</a></h5>
+                        <h5><a href="#">New York Strip Steak with Garlic Butter</a></h5>
                     </div>
                 </div>
             </div>

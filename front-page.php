@@ -6,8 +6,8 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <div class="v-middle caption">
-                    <h1>Vin Jour et Nuit <span>Lorem ipsum dolor</span></h1>
-                    <a href="#" data-scroll-nav="1" class="button-1 mt-20">Découvrir nos vins</a>
+                    <h1>Vin Jour et Nuit <span>Naturel, Plaisant et Revitalisant</span></h1>
+                    <a href="#" data-scroll-nav="1" class="button-1 mt-20">Notre catalogue</a>
                 </div>
             </div>
         </div>
@@ -24,52 +24,57 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="section-head text-center">
-                    <div class="section-title">Nos services</div>
+                    <div class="section-title">A vos côtés à chaque instant</div>
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row items">
             <div class="col-md-4">
                 <div class="item">
                     <span class="flaticon-hamburger-1"></span>
-                    <h5>Cheeseburger</h5>
-                    <p>Restaurant vulputate massa ons amet ravida haretra nuam the drana miss uctus enec accumsan aliquam sit sapien.</p>
+                    <h5>Mariages</h5>
+                    <p>Célébrez l'amour avec Jour et Nuit, le vin parfait pour des unions inoubliables.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="item">
                     <span class="flaticon-pizza-1"></span>
-                    <h5>Pizza Slice</h5>
-                    <p>Restaurant vulputate massa ons amet ravida haretra nuam the drana miss uctus enec accumsan aliquam sit sapien.</p>
+                    <h5>Évènements culturels</h5>
+                    <p>Accompagnez spectacles et expositions avec un vin qui incarne authenticité et raffinement.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="item">
                     <span class="flaticon-coffee-cup"></span>
-                    <h5>Coffee-Cup</h5>
-                    <p>Restaurant vulputate massa ons amet ravida haretra nuam the drana miss uctus enec accumsan aliquam sit sapien.</p>
+                    <h5>Dîners gastronomiques</h5>
+                    <p>Rehaussez vos plats avec l'harmonie exquise du Vin Jour et Nuit</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="item">
-                    <span class="flaticon-chicken-leg"></span>
-                    <h5>Chicken-Leg</h5>
-                    <p>Restaurant vulputate massa ons amet ravida haretra nuam the drana miss uctus enec accumsan aliquam sit sapien.</p>
+                    <span class="flaticon-coffee-cup"></span>
+                    <h5>Anniversaires</h5>
+                    <p>Apportez éclat et saveur à vos moments de joie avec un vin authentique.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="item">
-                    <span class="flaticon-fish"></span>
-                    <h5>Fish</h5>
-                    <p>Restaurant vulputate massa ons amet ravida haretra nuam the drana miss uctus enec accumsan aliquam sit sapien.</p>
+                    <span class="flaticon-pizza-1"></span>
+                    <h5>Soirées entre amis</h5>
+                    <p>Rendez vos retrouvailles encore plus chaleureuses avec un vin naturel au goût raffiné.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="item">
-                    <span class="flaticon-wedding-cake"></span>
-                    <h5>Wedding Cake</h5>
-                    <p>Restaurant vulputate massa ons amet ravida haretra nuam the drana miss uctus enec accumsan aliquam sit sapien.</p>
+                    <span class="flaticon-hamburger-1"></span>
+                    <h5>Détente en famille</h5>
+                    <p>Savourez chaque gorgée et laissez le stress s'évanouir avec ce vin apaisant.</p>
                 </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 mt-30 text-center">
+                <a href="#" class="button-5">Nous contacter</a>
             </div>
         </div>
     </div>
@@ -81,7 +86,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="section-head text-center">
-                    <div class="section-title white">Vidéo de Présentation</div>
+                    <div class="section-title white">Jour et Nuit : L'expérience en Vidéo</div>
                 </div>
             </div>
         </div>
@@ -106,26 +111,26 @@
             <div class="col-md-12">
                 <ul class="accordion-box clearfix">
                     <li class="accordion block">
-                        <div class="acc-btn size-20">How can I book private dinner?</div>
+                        <div class="acc-btn size-20">Question 1 ?</div>
                         <div class="acc-content">
                             <div class="content">
-                                <div class="text">Restaurant ut nisl quam nestibulum ac quam nec odio elementum sceisue the aucan ligula. Orci varius natoque penatibus et magnis dis parturient monte nascete ridiculus mus nellentesque habitant morbine.</div>
+                                <div class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim excepturi, veritatis amet porro accusantium et debitis. Est dolore similique modi.</div>
                             </div>
                         </div>
                     </li>
                     <li class="accordion block">
-                        <div class="acc-btn size-20">How frequently do you change the menu?</div>
+                        <div class="acc-btn size-20">Question 2 ?</div>
                         <div class="acc-content">
                             <div class="content">
-                                <div class="text">Restaurant ut nisl quam nestibulum ac quam nec odio elementum sceisue the aucan ligula. Orci varius natoque penatibus et magnis dis parturient monte nascete ridiculus mus nellentesque habitant morbine.</div>
+                                <div class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim excepturi, veritatis amet porro accusantium et debitis. Est dolore similique modi.</div>
                             </div>
                         </div>
                     </li>
                     <li class="accordion block">
-                        <div class="acc-btn size-20">How do I change / cancel a reservation?</div>
+                        <div class="acc-btn size-20">Question 3 ?</div>
                         <div class="acc-content">
                             <div class="content">
-                                <div class="text">Restaurant ut nisl quam nestibulum ac quam nec odio elementum sceisue the aucan ligula. Orci varius natoque penatibus et magnis dis parturient monte nascete ridiculus mus nellentesque habitant morbine.</div>
+                                <div class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim excepturi, veritatis amet porro accusantium et debitis. Est dolore similique modi.</div>
                             </div>
                         </div>
                     </li>

@@ -21,12 +21,12 @@
                 <div class="col-md-4">
                     <div class="item">
                         <div class="img">
-                            <a href="http://localhost/vinjouretnuit/vin-jour-et-nuit/">
+                            <a href="#">
                                 <img src="<?= VJN_IMG_URL . '/shop/2.jpg' ?>" alt="">
                             </a>
                         </div>
                         <div class="cont">
-                            <h6><a href="http://localhost/vinjouretnuit/vin-jour-et-nuit/">Southern Fried Chicken</a></h6>
+                            <h6><a href="#">Southern Fried Chicken</a></h6>
                             <div class="info">
                                 <p>Lorem vulputate massa sit amet ravida haretran nuam enim mi obortis eset uctus sapien.</p>
                             </div>
@@ -34,7 +34,7 @@
                                 <h5 class="price">$30.00</h5>
                             </div>
                             <div class="mt-30">
-                                <a href="http://localhost/vinjouretnuit/vin-jour-et-nuit/" class="button-3">Voir les détails</a>
+                                <a href="#" class="button-3">Voir les détails</a>
                             </div>
                         </div>
                     </div>
@@ -42,12 +42,12 @@
                 <div class="col-md-4">
                     <div class="item">
                         <div class="img">
-                            <a href="http://localhost/vinjouretnuit/vin-jour-et-nuit/">
+                            <a href="#">
                                 <img src="<?= VJN_IMG_URL . '/shop/1.jpg' ?>" alt="">
                             </a>
                         </div>
                         <div class="cont">
-                            <h6><a href="http://localhost/vinjouretnuit/vin-jour-et-nuit/">Southern Fried Chicken</a></h6>
+                            <h6><a href="#">Southern Fried Chicken</a></h6>
                             <div class="info">
                                 <p>Lorem vulputate massa sit amet ravida haretran nuam enim mi obortis eset uctus sapien.</p>
                             </div>
@@ -55,7 +55,7 @@
                                 <h5 class="price">$30.00</h5>
                             </div>
                             <div class="mt-30">
-                                <a href="http://localhost/vinjouretnuit/vin-jour-et-nuit/" class="button-3">Voir les détails</a>
+                                <a href="#" class="button-3">Voir les détails</a>
                             </div>
                         </div>
                     </div>
