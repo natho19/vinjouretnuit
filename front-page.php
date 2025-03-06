@@ -31,42 +31,42 @@
         <div class="row items">
             <div class="col-md-4">
                 <div class="item">
-                    <span class="flaticon-hamburger-1"></span>
+                    <img src="<?= VJN_IMG_URL . '/wedding.png' ?>" alt="wedding">
                     <h5>Mariages</h5>
                     <p>Célébrez l'amour avec Jour et Nuit, le vin parfait pour des unions inoubliables.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="item">
-                    <span class="flaticon-pizza-1"></span>
-                    <h5>Évènements culturels</h5>
+                    <img src="<?= VJN_IMG_URL . '/party.png' ?>" alt="party">
+                    <h5>Évènements</h5>
                     <p>Accompagnez spectacles et expositions avec un vin qui incarne authenticité et raffinement.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="item">
-                    <span class="flaticon-coffee-cup"></span>
+                    <img src="<?= VJN_IMG_URL . '/dinner.png' ?>" alt="dinner">
                     <h5>Dîners gastronomiques</h5>
                     <p>Rehaussez vos plats avec l'harmonie exquise du Vin Jour et Nuit</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="item">
-                    <span class="flaticon-coffee-cup"></span>
+                    <img src="<?= VJN_IMG_URL . '/agenda.png' ?>" alt="agenda">
                     <h5>Anniversaires</h5>
                     <p>Apportez éclat et saveur à vos moments de joie avec un vin authentique.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="item">
-                    <span class="flaticon-pizza-1"></span>
+                    <img src="<?= VJN_IMG_URL . '/dance.png' ?>" alt="dance">
                     <h5>Soirées entre amis</h5>
                     <p>Rendez vos retrouvailles encore plus chaleureuses avec un vin naturel au goût raffiné.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="item">
-                    <span class="flaticon-hamburger-1"></span>
+                    <img src="<?= VJN_IMG_URL . '/family.png' ?>" alt="family">
                     <h5>Détente en famille</h5>
                     <p>Savourez chaque gorgée et laissez le stress s'évanouir avec ce vin apaisant.</p>
                 </div>

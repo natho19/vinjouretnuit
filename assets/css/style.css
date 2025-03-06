@@ -3327,6 +3327,11 @@ hr.border-2 {
     height: 100%;
 }
 
+.services-1 .item img {
+    width: 64px;
+    margin-bottom: 10px;
+}
+
 .services-1 .item h5 {
     font-size: 24px;
     color: #1b1b1b;

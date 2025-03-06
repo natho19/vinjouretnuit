@@ -24,7 +24,7 @@
             <div class="container">
                 <!-- Logo -->
                 <div class="logo-wrapper">
-                    <a class="logo" href="#">
+                    <a class="logo" href="http://localhost/vinjouretnuit/">
                         <img src="<?= VJN_IMG_URL . '/logo.png' ?>" class="logo-img" alt="Logo">
                     </a>
                 </div>
@@ -36,10 +36,10 @@
                 <!-- Menu -->
                 <div class="collapse navbar-collapse" id="navbar">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item"><a class="nav-link" href="#">Accueil</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">A propos</a></li>
+                        <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/">Accueil</a></li>
+                        <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/a-propos/">A propos</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">Nos vins</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Blog</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">Actualités</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
                     </ul>
                 </div>

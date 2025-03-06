@@ -19,14 +19,11 @@
         <div class="row">
             <div class="col-md-6 mb-30">
                 <div class="section-head mb-20">
-                    <div class="section-title">Few Words About Us</div>
+                    <div class="section-title">Une Passion, Une Tradition, Un Art</div>
                 </div>
-                <p>Restaurant vulputate massa sit amet ravida haretra nuam enim mi obortis eset uctus enec accumsan eu justo aliquam sit amet auctor orci donec vitae vehicula risus duise nunc sapien, accumsan id mauris ac ullamcorper rutrum asiquam congue nie ipsum auctor frinilla donec finibus sapien ut leo cursus ullamco.</p>
-                <p>Wine porta laoreet ante, luctus maximus ipsum blandit eget. Integer mollis eniman metus, eget consequat enim commodo eduis id magna arcu duis nec elit praesent convallis et justo nec tristique sapien quis.</p>
-                <p>Restaurant vulputate massa sit amet ravida haretra nuam enim mi obortis eset uctus enec accumsan eu justo aliquam sit amet auctor orci donec vitae vehicula risus duise nunc sapien, accumsan id mauris ac ullamcorper rutrum asiquam congue nie ipsum auctor frinilla donec finibus sapien ut leo cursus ullamco.</p>
-                <!-- <div class="col-md-12 mt-30">
-                    <a href="#" class="btn-form1-submit">Nous contacter</a>
-                </div> -->
+                <p>Né d'un savoir-faire unique, Jour et Nuit incarne l'excellence d'un vin rouge naturel 100% Made in Togo. Élaboré à partir des fleurs d'hibiscus, il allie tradition et innovation pour offrir une expérience gustative inoubliable.</p>
+                <p>Plus qu'un simple vin, Jour et Nuit est un symbole de convivialité et de raffinement. Chaque bouteille raconte une histoire, celle d'un nectar délicatement conçu pour sublimer vos moments de fête, de détente et de plaisir.</p>
+                <p>Naturel et riche en bienfaits, Jour et Nuit est à la fois un délice pour le palais et un allié pour la santé. Anti-inflammatoire et antianémique, il accompagne vos instants de dégustation tout en prenant soin de vous.</p>
             </div>
             <div class="col col-md-3"> <img src="<?= VJN_IMG_URL . '/wine/5.jpg' ?>" alt="About" class="mt-90 mb-30"> </div>
             <div class="col col-md-3"> <img src="<?= VJN_IMG_URL . '/wine/9.jpg' ?>" alt="About"> </div>
@@ -48,40 +45,36 @@
             <div class="col-md-12">
                 <div class="owl-carousel owl-theme">
                     <div class="team-card mb-30">
-                        <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/chef2.jpg' ?>" alt="" class="w-100"></div>
+                        <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/1.jpg' ?>" alt="" class="w-100"></div>
+                        <div class="team-content">
+                            <h3 class="team-title">Désiré Deklo<span>Executive Head Chef</span></h3>
+                        </div>
+                        <div class="title-box">
+                            <h3 class="mb-0">Désiré Deklo<span>Executive Head Chef</span></h3>
+                        </div>
+                    </div>
+                    <div class="team-card mb-30">
+                        <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/2.jpg' ?>" alt="" class="w-100"></div>
                         <div class="team-content">
                             <h3 class="team-title">Raphael Moss<span>Executive Head Chef</span></h3>
-                            <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien arcuman ontese auctor ac aleuam aretra.</p>
                         </div>
                         <div class="title-box">
                             <h3 class="mb-0">Raphael Moss<span>Executive Head Chef</span></h3>
                         </div>
                     </div>
                     <div class="team-card mb-30">
-                        <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/chef1.jpg' ?>" alt="" class="w-100"></div>
+                        <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/5.jpg' ?>" alt="" class="w-100"></div>
                         <div class="team-content">
                             <h3 class="team-title">Raphael Moss<span>Executive Head Chef</span></h3>
-                            <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien arcuman ontese auctor ac aleuam aretra.</p>
                         </div>
                         <div class="title-box">
                             <h3 class="mb-0">Raphael Moss<span>Executive Head Chef</span></h3>
                         </div>
                     </div>
                     <div class="team-card mb-30">
-                        <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/chef2.jpg' ?>" alt="" class="w-100"></div>
+                        <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/4.jpg' ?>" alt="" class="w-100"></div>
                         <div class="team-content">
                             <h3 class="team-title">Raphael Moss<span>Executive Head Chef</span></h3>
-                            <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien arcuman ontese auctor ac aleuam aretra.</p>
-                        </div>
-                        <div class="title-box">
-                            <h3 class="mb-0">Raphael Moss<span>Executive Head Chef</span></h3>
-                        </div>
-                    </div>
-                    <div class="team-card mb-30">
-                        <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/chef3.jpg' ?>" alt="" class="w-100"></div>
-                        <div class="team-content">
-                            <h3 class="team-title">Raphael Moss<span>Executive Head Chef</span></h3>
-                            <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien arcuman ontese auctor ac aleuam aretra.</p>
                         </div>
                         <div class="title-box">
                             <h3 class="mb-0">Raphael Moss<span>Executive Head Chef</span></h3>
