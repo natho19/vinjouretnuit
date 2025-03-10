@@ -36,7 +36,7 @@
                                     <p><a href="http://localhost/vinjouretnuit/a-propos/">A Propos</a></p>
                                     <p><a href="http://localhost/vinjouretnuit/nos-vins/">Nos vins</a></p>
                                     <p><a href="#">Actualités</a></p>
-                                    <p><a href="#">Contact</a></p>
+                                    <p><a href="http://localhost/vinjouretnuit/contact/">Contact</a></p>
                                 </div>
                             </div>
                         </div>

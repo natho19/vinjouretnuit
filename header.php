@@ -42,7 +42,7 @@
                         <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/a-propos/">A propos</a></li>
                         <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/nos-vins/">Nos vins</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">Actualités</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/contact/">Contact</a></li>
                     </ul>
                 </div>
             </div>
