@@ -33,8 +33,8 @@
                             <h3 class="footer-title">Liens utiles</h3>
                             <div class="row subscribe">
                                 <div class="col-md-12">
-                                    <p><a href="#">A Propos</a></p>
-                                    <p><a href="#">Nos vins</a></p>
+                                    <p><a href="http://localhost/vinjouretnuit/a-propos/">A Propos</a></p>
+                                    <p><a href="http://localhost/vinjouretnuit/nos-vins/">Nos vins</a></p>
                                     <p><a href="#">Actualités</a></p>
                                     <p><a href="#">Contact</a></p>
                                 </div>

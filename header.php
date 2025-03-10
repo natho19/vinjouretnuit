@@ -5,8 +5,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <link rel="shortcut icon" href="<?= VJN_IMG_URL . '/favicon.png' ?>" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&amp;family=Pinyon+Script&amp;display=swap">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=League+Spartan:wght@100..900&display=swap" rel="stylesheet">
     <?php wp_head() ?>
 </head>
 
@@ -31,14 +33,14 @@
                 <!-- Button -->
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon">
-                    <i class="ti-menu"></i></span>
+                        <i class="ti-menu"></i></span>
                 </button>
                 <!-- Menu -->
                 <div class="collapse navbar-collapse" id="navbar">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/">Accueil</a></li>
                         <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/a-propos/">A propos</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Nos vins</a></li>
+                        <li class="nav-item"><a class="nav-link" href="http://localhost/vinjouretnuit/nos-vins/">Nos vins</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">Actualités</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
                     </ul>

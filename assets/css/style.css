@@ -53,7 +53,7 @@
 
 
 /* Custom font - Noah */
-@font-face {
+/* @font-face {
     font-family: "Noah";
     font-style: normal;
     font-weight: 400;
@@ -86,7 +86,7 @@
     font-style: normal;
     font-weight: normal;
     src: url(../fonts/noah-regular.woff2) format("woff2")
-}
+} */
 
 
 /* ======= Basic style ======= */
@@ -109,7 +109,7 @@ body {
 }
 
 body {
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 15px;
     font-weight: 400;
     line-height: 1.75em;
@@ -118,7 +118,7 @@ body {
 }
 
 p {
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 15px;
     font-weight: 400;
     line-height: 1.75em;
@@ -132,7 +132,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     font-weight: 400;
     line-height: 1.25em;
     margin: 0 0 20px 0;
@@ -212,7 +212,7 @@ textarea {
     display: block;
     width: 100%;
     line-height: 1.5em;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 15px;
     font-weight: 400;
     color: #1b1b1b;
@@ -267,7 +267,7 @@ input[type="checkbox"] {
 
 input[type="submit"] {
     font-weight: 400;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     text-transform: uppercase;
     background: #1b1b1b;
     color: #fff;
@@ -478,7 +478,7 @@ blockquote cite:before {
 }
 
 .count {
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
 }
 
 .valign {
@@ -858,7 +858,7 @@ blockquote cite:before {
 
 .section-head .section-subtitle {
     color: #C19D60;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-weight: 400;
     font-size: 12px;
     margin-bottom: 10px;
@@ -867,9 +867,9 @@ blockquote cite:before {
 }
 
 .section-head .section-title {
-    font-family: 'Libre Caslon Display', serif;
-    font-size: 48px;
-    line-height: 48px;
+    font-family: "Cinzel Decorative", serif;
+    font-size: 32px;
+    line-height: 40px;
     font-weight: 400;
     color: #1b1b1b;
 }
@@ -880,7 +880,7 @@ blockquote cite:before {
 
 .section-head .section-backtitle {
     position: absolute;
-    font-family: 'Pinyon Script', cursive;
+    font-family: "League Spartan", sans-serif;
     bottom: 0;
     left: 0;
     width: 100%;
@@ -952,7 +952,7 @@ blockquote cite:before {
 }
 
 .navbar .navbar-nav .nav-link {
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 400;
     letter-spacing: 0.5px;
     text-transform: uppercase;
@@ -962,7 +962,7 @@ blockquote cite:before {
     transition: all .4s;
     padding-right: 12px;
     padding-left: 12px;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
 }
 
 .navbar .navbar-nav .nav-link.nav-color {
@@ -1024,7 +1024,7 @@ blockquote cite:before {
 }
 
 .nav-scroll .logo-wrapper .logo h2 {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     font-size: 27px;
     font-weight: 500;
     display: block;
@@ -1038,7 +1038,7 @@ blockquote cite:before {
 
 .nav-scroll .logo-wrapper .logo span {
     display: block;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 9px;
     color: #C19D60;
     font-weight: 400;
@@ -1054,7 +1054,7 @@ blockquote cite:before {
 }
 
 .logo-wrapper .logo h2 {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     font-size: 27px;
     font-weight: 500;
     display: block;
@@ -1074,7 +1074,7 @@ blockquote cite:before {
 
 .logo-wrapper .logo span {
     display: block;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 9px;
     color: #C19D60;
     font-weight: 400;
@@ -1103,7 +1103,7 @@ blockquote cite:before {
 
 .navbar .dropdown-menu .dropdown-item {
     padding: 9px 0;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 15px;
     font-weight: 400;
     color: #fff;
@@ -1224,7 +1224,7 @@ blockquote cite:before {
 }
 
 .navbar .cart .cart-side .titl h6 {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     color: #fff;
     font-size: 17px;
     margin-bottom: 0;
@@ -1262,7 +1262,7 @@ blockquote cite:before {
 
 .navbar .cart .cart-side .item .cont h6 {
     color: #fff;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 15px;
     margin-bottom: 5px;
 }
@@ -1275,7 +1275,7 @@ blockquote cite:before {
 .navbar .cart .cart-side .item .cont .price span {
     font-size: 15px;
     color: #C19D60;
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     margin-left: 5px;
 }
 
@@ -1297,7 +1297,7 @@ blockquote cite:before {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     margin-top: 15px;
 }
 
@@ -1308,7 +1308,7 @@ blockquote cite:before {
 
 .navbar .cart .cart-side .total p {
     margin-left: auto;
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     color: #C19D60;
 }
 
@@ -1516,7 +1516,7 @@ blockquote cite:before {
 .header .caption h6 {
     position: relative;
     margin-bottom: 15px;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     text-transform: uppercase;
     font-size: 12px;
     letter-spacing: 7px;
@@ -1537,7 +1537,7 @@ blockquote cite:before {
 .header .caption h1 {
     position: relative;
     margin-bottom: 15px;
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     font-size: 70px;
     line-height: 1em;
     -webkit-animation-delay: .3s;
@@ -1559,7 +1559,7 @@ blockquote cite:before {
 
 .header .caption h1 i {
     display: block;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -1572,7 +1572,7 @@ blockquote cite:before {
 }
 
 .header .caption h4 {
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 15px;
     font-weight: 400;
     line-height: 1.5em;
@@ -1719,7 +1719,7 @@ blockquote cite:before {
 .header div.reservation .call {
     color: #C19D60;
     text-transform: uppercase;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-weight: 400;
     letter-spacing: 3px;
     font-size: 12px;
@@ -1728,7 +1728,7 @@ blockquote cite:before {
 }
 
 .header div.reservation .call span {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     font-size: 27px;
     color: #fff;
     letter-spacing: 0px;
@@ -1887,7 +1887,7 @@ blockquote cite:before {
 .kenburns-inner .caption h6 {
     position: relative;
     margin-bottom: 15px;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     text-transform: uppercase;
     font-size: 12px;
     letter-spacing: 7px;
@@ -1897,7 +1897,7 @@ blockquote cite:before {
 
 .kenburns-inner .caption h3 {
     position: relative;
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     font-size: 60px;
     line-height: 1em;
     color: #fff;
@@ -1917,7 +1917,7 @@ blockquote cite:before {
 
 .kenburns-inner .caption h1 {
     position: relative;
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     font-size: 75px;
     line-height: 1em;
     color: #fff;
@@ -1982,7 +1982,7 @@ blockquote cite:before {
 .kenburns-section div.reservation .call {
     color: #C19D60;
     text-transform: uppercase;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-weight: 400;
     letter-spacing: 3px;
     font-size: 12px;
@@ -1991,7 +1991,7 @@ blockquote cite:before {
 }
 
 .kenburns-section div.reservation .call span {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     font-size: 27px;
     color: #fff;
     letter-spacing: 0px;
@@ -2047,16 +2047,16 @@ blockquote cite:before {
 
 .banner-header h1 {
     position: relative;
-    font-size: 75px;
+    font-size: 42px;
     line-height: 1em;
     color: #fff;
 }
 
 .banner-header h1 span {
+    font-family: "League Spartan", sans-serif;
+    font-size: 25px;
     display: block;
-    font-size: 30px;
-    display: block;
-    margin-top: 0px;
+    margin-top: 12px;
     line-height: 1.5em;
     color: #C19D60;
 }
@@ -2080,7 +2080,7 @@ blockquote cite:before {
 .banner-header h5 {
     color: #fff;
     font-size: 12px;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     text-transform: uppercase;
     letter-spacing: 7px;
     margin-bottom: 15px;
@@ -2247,7 +2247,7 @@ blockquote cite:before {
 
 .video-fullscreen-wrap h3 {
     position: relative;
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     font-size: 60px;
     line-height: 1em;
     color: #fff;
@@ -2445,13 +2445,13 @@ blockquote cite:before {
 }
 
 .team-card .title-box h3 {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 20px;
     color: #1b1b1b;
 }
 
 .team-card .title-box h3 span {
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 15px;
     color: #777;
     display: grid;
@@ -2488,14 +2488,14 @@ blockquote cite:before {
 }
 
 .team-card .team-title {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 24px;
     color: #fff;
     font-weight: 400;
 }
 
 .team-card .team-title span {
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 15px;
     color: #C19D60;
     font-weight: 400;
@@ -2657,7 +2657,7 @@ blockquote cite:before {
 .chef-recommends .item .con h6 a {
     position: relative;
     color: #C19D60;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-weight: 400;
     font-size: 12px;
     margin-bottom: 10px;
@@ -2723,7 +2723,7 @@ blockquote cite:before {
 
 /* permalink */
 .chef-recommends .item .con .permalink {
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 15px;
     font-style: italic;
     color: #fff;
@@ -2820,7 +2820,7 @@ blockquote cite:before {
     font-size: 12px;
     color: #C19D60;
     margin-bottom: 5px;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
 }
@@ -2829,7 +2829,7 @@ blockquote cite:before {
     font-size: 12px;
     color: #1b1b1b;
     margin-bottom: 5px;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
 }
@@ -2837,7 +2837,7 @@ blockquote cite:before {
 .chef-recommends-2 .caption h6 {
     display: inline-block;
     color: #1b1b1b;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-weight: 400;
     font-size: 10px;
     margin-bottom: 10px;
@@ -2869,7 +2869,7 @@ blockquote cite:before {
 .chef-recommends-2 .caption .info-wrapper .icon {
     color: #1b1b1b;
     font-size: 12px;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     letter-spacing: 0px;
 }
 
@@ -2892,7 +2892,7 @@ blockquote cite:before {
 
 .chef-recommends-2 .caption .info-wrapper .date {
     color: #1b1b1b;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 15px;
     background: transparent;
     border: 1px solid #1b1b1b;
@@ -3026,7 +3026,7 @@ hr.border-2 {
     color: #fff;
     font-size: 15px;
     font-weight: 400;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     letter-spacing: 1px;
     background: #C19D60;
     border: 1px solid #C19D60;
@@ -3061,7 +3061,7 @@ hr.border-2 {
 .first-class-services .square h6 a {
     position: relative;
     color: #C19D60;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-weight: 400;
     font-size: 12px;
     margin-bottom: 10px;
@@ -3119,7 +3119,7 @@ hr.border-2 {
 .first-class-services .square2 h6 {
     position: relative;
     color: #C19D60;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-weight: 400;
     font-size: 12px;
     margin-bottom: 10px;
@@ -3333,6 +3333,7 @@ hr.border-2 {
 }
 
 .services-1 .item h5 {
+    font-family: "League Spartan", sans-serif;
     font-size: 24px;
     color: #1b1b1b;
     margin-bottom: 10px;
@@ -3528,7 +3529,7 @@ button.mfp-arrow {
 
 .testimonials-box .head-box .subtitle {
     color: #C19D60;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-weight: 400;
     font-size: 12px;
     text-transform: uppercase;
@@ -3537,7 +3538,7 @@ button.mfp-arrow {
 }
 
 .testimonials-box .head-box .title {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     font-size: 36px;
     font-weight: 400;
     color: #fff;
@@ -3549,7 +3550,7 @@ button.mfp-arrow {
 
 .testimonials-box .head-box .backtitle {
     position: absolute;
-    font-family: 'Pinyon Script', cursive;
+    font-family: "League Spartan", sans-serif;
     bottom: 0;
     left: 0;
     width: 100%;
@@ -3621,7 +3622,7 @@ button.mfp-arrow {
     font-size: 15px;
     margin-bottom: 0px;
     padding-top: 10px;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-weight: 400;
     color: #C19D60;
     line-height: 1em;
@@ -3658,7 +3659,7 @@ button.mfp-arrow {
 }
 
 .opening-hours-box .head-box h6 {
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     color: #C19D60;
     font-size: 12px;
     font-weight: 400;
@@ -3707,13 +3708,13 @@ button.mfp-arrow {
     color: #fff;
     font-size: 15px;
     margin-bottom: 20px;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-weight: 400;
     line-height: 1.2em;
 }
 
 .opening-hours-box .item .info .cont .time {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     color: #777;
     font-size: 24px;
     font-weight: 400;
@@ -4295,7 +4296,7 @@ button.mfp-arrow {
 
 .booking-box .head-box h6 {
     font-size: 12px;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-weight: 400;
     color: #C19D60;
     text-transform: uppercase;
@@ -4353,7 +4354,7 @@ button.mfp-arrow {
 }
 
 .reservations .text a {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     font-size: 27px;
     color: #1b1b1b;
 }
@@ -4374,7 +4375,7 @@ button.mfp-arrow {
     cursor: pointer;
     margin: 0 10px;
     color: #1b1b1b;
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     font-size: 24px;
 }
 
@@ -4428,7 +4429,7 @@ button.mfp-arrow {
     -ms-flex-negative: 0;
     flex-shrink: 0;
     color: #1b1b1b;
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     font-size: 18px;
     font-weight: 400;
 }
@@ -4450,7 +4451,7 @@ button.mfp-arrow {
 
 .menu-book .menu-list .flex .price {
     margin-left: auto;
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     font-size: 18px;
     color: #C19D60;
     font-weight: 400;
@@ -4538,7 +4539,7 @@ button.mfp-arrow {
 }
 
 .menubook-5 .item h2 {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     font-size: 48px;
     line-height: 48px;
     font-weight: 400;
@@ -4579,7 +4580,7 @@ button.mfp-arrow {
 }
 
 .parallax-header .caption h6 {
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 12px;
     font-weight: 400;
     color: #C19D60;
@@ -4823,7 +4824,7 @@ button.mfp-arrow {
     font-size: 60px;
     line-height: 60px;
     font-weight: 400;
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     color: transparent;
     -webkit-text-stroke: 1px #c5a47e;
     opacity: .8;
@@ -4929,7 +4930,7 @@ button.mfp-arrow {
 
 .accordion-box .block .acc-btn {
     position: relative;
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 24px;
     line-height: 30px;
     font-weight: 400;
@@ -5011,7 +5012,7 @@ button.mfp-arrow {
 
 .main-shop .products-shop .topline p {
     margin-bottom: 0;
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     color: #1b1b1b;
     font-size: 17px;
     line-height: 1.2em;
@@ -5055,8 +5056,9 @@ button.mfp-arrow {
 }
 
 .main-shop .products-shop .item {
-    margin-bottom: 30px;
+    margin: 0 12.5px 50px;
 }
+
 
 .main-shop .products-shop .item .img {
     overflow: hidden;
@@ -5139,7 +5141,7 @@ button.mfp-arrow {
 
 .main-shop .products-shop .item .cont .price {
     color: #C19D60;
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     font-size: 20px;
     margin-bottom: 0;
 }
@@ -5372,12 +5374,12 @@ button.mfp-arrow {
 .main-shop .shop-sidebar .item .range .price-wrap-2 {
     margin-left: 0px;
     color: #fff;
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
 }
 
 .main-shop .shop-sidebar .item .range .price-wrap-1 span,
 .main-shop .shop-sidebar .item .range .price-wrap-2 span {
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     color: #777;
 }
 
@@ -5462,7 +5464,7 @@ button.mfp-arrow {
 }
 
 .main-shop .shop-sidebar .item .pop-prod .product .info .price span {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     color: #C19D60;
 }
 
@@ -5560,7 +5562,7 @@ button.mfp-arrow {
     padding-left: 15px;
     font-size: 15px;
     color: #C19D60;
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
 }
 
 .main-shop .shop-sidebar .item .ctg li .dots {
@@ -5607,14 +5609,14 @@ button.mfp-arrow {
 }
 
 .main-shop .single-product .prod-title .price span {
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 15px;
     color: #777;
 }
 
 .main-shop .single-product .prod-title .price strong {
     color: #C19D60;
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     margin-left: 5px;
     font-weight: 400;
 }
@@ -5816,7 +5818,7 @@ button.mfp-arrow {
     line-height: 40px;
     font-size: 15px;
     color: #1b1b1b;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     margin-bottom: 0;
 }
 
@@ -5856,7 +5858,7 @@ button.mfp-arrow {
 }
 
 .main-cart .line .cont p.playfont {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
 }
 
 .main-cart .line .remove-item .cont a {
@@ -5885,7 +5887,7 @@ button.mfp-arrow {
 }
 
 .total-table tr {
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 15px;
     text-align: right;
     font-weight: 400;
@@ -5898,7 +5900,7 @@ button.mfp-arrow {
 }
 
 .total-table td {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     color: #C19D60;
     border: 1px solid rgba(193, 157, 96, 0.2);
 }
@@ -5978,7 +5980,7 @@ button.mfp-arrow {
 }
 
 .news .item .date span {
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     display: block;
     font-size: 12px;
     text-transform: uppercase;
@@ -5987,7 +5989,7 @@ button.mfp-arrow {
 }
 
 .news .item .date i {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     display: block;
     font-size: 20px;
     font-style: normal;
@@ -6009,7 +6011,7 @@ button.mfp-arrow {
 }
 
 .news .item .con .category {
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     text-transform: uppercase;
     font-size: 12px;
     font-weight: 400;
@@ -6102,7 +6104,7 @@ button.mfp-arrow {
 }
 
 .news2 .post-img .date span {
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     display: block;
     font-size: 12px;
     text-transform: uppercase;
@@ -6111,7 +6113,7 @@ button.mfp-arrow {
 }
 
 .news2 .post-img .date i {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     display: block;
     font-size: 20px;
     font-style: normal;
@@ -6129,7 +6131,7 @@ button.mfp-arrow {
     font-size: 12px;
     letter-spacing: 3px;
     color: #C19D60;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     text-transform: uppercase;
     margin-bottom: 5px;
 }
@@ -6147,7 +6149,7 @@ button.mfp-arrow {
 }
 
 .news2 .post-cont .date {
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     margin-top: 0px;
     font-size: 12px;
     text-align: right;
@@ -6301,7 +6303,7 @@ button.mfp-arrow {
     color: #777;
     font-weight: 400;
     border: 1px solid rgba(255, 255, 255, 0.1);
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 15px;
     border-radius: 100%;
 }
@@ -6349,7 +6351,7 @@ button.mfp-arrow {
 }
 
 .post-comment-section h3 span {
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 12px;
     color: #1b1b1b;
     margin-left: 15px;
@@ -6485,7 +6487,7 @@ a:hover.post-repay {
 .comming h6 {
     color: #C19D60;
     font-size: 12px;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-weight: 400;
     text-transform: uppercase;
     margin-bottom: 20px;
@@ -6554,7 +6556,7 @@ a:hover.post-repay {
     top: 4px;
     right: 4px;
     cursor: pointer;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 12px;
     letter-spacing: 3px;
     text-transform: uppercase;
@@ -6576,7 +6578,7 @@ a:hover.post-repay {
 .go-back a {
     color: #FFF;
     display: inline-block;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -6625,7 +6627,7 @@ a:hover.post-repay {
     padding: 20px 60px 20px 30px;
     height: 70px;
     display: block;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 15px;
     background: #f4f4f4;
     color: #1b1b1b;
@@ -6777,7 +6779,7 @@ a:hover.post-repay {
     display: inline-block;
     position: relative;
     text-transform: uppercase;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 12px;
     font-weight: 400;
     letter-spacing: 3px;
@@ -6830,7 +6832,7 @@ a:hover.post-repay {
 }
 
 .footer-title {
-    font-size: 30px;
+    font-size: 20px;
     color: #C19D60;
     margin-bottom: 20px;
 }
@@ -6938,7 +6940,7 @@ a:hover.post-repay {
 }
 
 .footer-contact-phone {
-    font-family: 'Libre Caslon Display', serif;
+    font-family: "Cinzel Decorative", serif;
     font-size: 20px;
     color: #fff;
     font-weight: 400;
@@ -7084,7 +7086,7 @@ select {
     top: 4px;
     right: 4px;
     cursor: pointer;
-    font-family: 'Noah', sans-serif;
+    font-family: "League Spartan", sans-serif;
     font-size: 12px;
     letter-spacing: 3px;
     text-transform: uppercase;
@@ -7373,8 +7375,8 @@ select {
 
     .section-head .section-title,
     .parallax-header .caption h2 {
-        font-size: 36px;
-        line-height: 36px;
+        font-size: 25px;
+        line-height: 30px;
     }
 
     .portfolio .filtering span {

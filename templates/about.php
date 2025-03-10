@@ -24,6 +24,9 @@
                 <p>Né d'un savoir-faire unique, Jour et Nuit incarne l'excellence d'un vin rouge naturel 100% Made in Togo. Élaboré à partir des fleurs d'hibiscus, il allie tradition et innovation pour offrir une expérience gustative inoubliable.</p>
                 <p>Plus qu'un simple vin, Jour et Nuit est un symbole de convivialité et de raffinement. Chaque bouteille raconte une histoire, celle d'un nectar délicatement conçu pour sublimer vos moments de fête, de détente et de plaisir.</p>
                 <p>Naturel et riche en bienfaits, Jour et Nuit est à la fois un délice pour le palais et un allié pour la santé. Anti-inflammatoire et antianémique, il accompagne vos instants de dégustation tout en prenant soin de vous.</p>
+                <div class="mt-30">
+                    <a href="#" class="button-5">Nous contacter</a>
+                </div>
             </div>
             <div class="col col-md-3"> <img src="<?= VJN_IMG_URL . '/wine/5.jpg' ?>" alt="About" class="mt-90 mb-30"> </div>
             <div class="col col-md-3"> <img src="<?= VJN_IMG_URL . '/wine/9.jpg' ?>" alt="About"> </div>
@@ -64,15 +67,6 @@
                     </div>
                     <div class="team-card mb-30">
                         <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/5.jpg' ?>" alt="" class="w-100"></div>
-                        <div class="team-content">
-                            <h3 class="team-title">Raphael Moss<span>Executive Head Chef</span></h3>
-                        </div>
-                        <div class="title-box">
-                            <h3 class="mb-0">Raphael Moss<span>Executive Head Chef</span></h3>
-                        </div>
-                    </div>
-                    <div class="team-card mb-30">
-                        <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/4.jpg' ?>" alt="" class="w-100"></div>
                         <div class="team-content">
                             <h3 class="team-title">Raphael Moss<span>Executive Head Chef</span></h3>
                         </div>

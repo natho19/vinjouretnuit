@@ -7,7 +7,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center caption mt-60">
-                <h1>Vin Jour et Nuit</h1>
+                <h1>Vin Jour et Nuit Sec</h1>
             </div>
         </div>
     </div>
@@ -17,13 +17,13 @@
 <section class="main-shop product-page section-padding">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-9">
+            <div class="col-md-8">
                 <div class="single-product">
                     <div class="prod-title">
-                        <h4>Vin Jour et Nuit</h4>
+                        <h4>Vin Jour et Nuit Sec</h4>
                         <div class="info">
                             <div class="price">
-                                <h6><span>Price :</span> <strong>$40.00</strong></h6>
+                                <h6><span>Price :</span> <strong>2 000 XOF</strong></h6>
                             </div>
                         </div>
                     </div>
@@ -33,10 +33,10 @@
                             <div class="owl-carousel owl-theme text-center">
                                 <div class="item">
                                     <div class="gallery-item-inner">
-                                        <a href="<?= VJN_IMG_URL . '/shop/1.jpg'; ?>" title="" class="img-grayscale img-zoom">
+                                        <a href="<?= VJN_IMG_URL . '/wine/1.jpg'; ?>" title="" class="img-grayscale img-zoom">
                                             <div class="gallery-box">
                                                 <div class="gallery-img">
-                                                    <img src="<?= VJN_IMG_URL . '/shop/1.jpg'; ?>" class="img-fluid mx-auto d-block" alt="">
+                                                    <img src="<?= VJN_IMG_URL . '/wine/1.jpg'; ?>" class="img-fluid mx-auto d-block" alt="">
                                                 </div>
                                             </div>
                                         </a>
@@ -44,21 +44,10 @@
                                 </div>
                                 <div class="item">
                                     <div class="gallery-item-inner">
-                                        <a href="<?= VJN_IMG_URL . '/shop/2.jpg'; ?>" title="" class="img-grayscale img-zoom">
+                                        <a href="<?= VJN_IMG_URL . '/wine/2.jpg'; ?>" title="" class="img-grayscale img-zoom">
                                             <div class="gallery-box">
                                                 <div class="gallery-img">
-                                                    <img src="<?= VJN_IMG_URL . '/shop/2.jpg'; ?>" class="img-fluid mx-auto d-block" alt="">
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="gallery-item-inner">
-                                        <a href="<?= VJN_IMG_URL . '/shop/3.jpg'; ?>" title="" class="img-grayscale img-zoom">
-                                            <div class="gallery-box">
-                                                <div class="gallery-img">
-                                                    <img src="<?= VJN_IMG_URL . '/shop/3.jpg'; ?>" class="img-fluid mx-auto d-block" alt="">
+                                                    <img src="<?= VJN_IMG_URL . '/wine/2.jpg'; ?>" class="img-fluid mx-auto d-block" alt="">
                                                 </div>
                                             </div>
                                         </a>
