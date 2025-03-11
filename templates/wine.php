@@ -18,7 +18,7 @@
     <div class="container">
         <div class="products-shop">
             <div class="row justify-content-center">
-                <div class="col-md-6 col-lg-5">
+                <div class="col-lg-5 col-md-6">
                     <div class="item">
                         <div class="img">
                             <a href="http://localhost/vinjouretnuit/vin-jour-et-nuit/">
@@ -39,7 +39,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-5">
+                <div class="col-lg-5 col-md-6">
                     <div class="item">
                         <div class="img">
                             <a href="http://localhost/vinjouretnuit/vin-jour-et-nuit/">

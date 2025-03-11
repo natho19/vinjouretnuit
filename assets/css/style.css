@@ -5999,7 +5999,7 @@ button.mfp-arrow {
 
 .news .item .con {
     margin: -165px 20px 90px;
-    padding: 20px 20px 30px 20px;
+    padding: 25px 20px 35px 20px;
     background-color: #f2eee8 !important;
     border: 1px solid #f2eee8;
     border-radius: 0;
@@ -6040,8 +6040,9 @@ button.mfp-arrow {
 .news .item .con h5,
 .news .item .con h5 a {
     color: #1b1b1b;
-    font-size: 24px;
-    margin-bottom: 0px;
+    font-family: "League Spartan", sans-serif;
+    font-size: 22px;
+    margin-bottom: 0;
 }
 
 .news .item .con h5:hover,

@@ -35,7 +35,7 @@
                                 <div class="col-md-12">
                                     <p><a href="http://localhost/vinjouretnuit/a-propos/">A Propos</a></p>
                                     <p><a href="http://localhost/vinjouretnuit/nos-vins/">Nos vins</a></p>
-                                    <p><a href="#">Actualités</a></p>
+                                    <p><a href="http://localhost/vinjouretnuit/blog/">Actualités</a></p>
                                     <p><a href="http://localhost/vinjouretnuit/contact/">Contact</a></p>
                                 </div>
                             </div>
