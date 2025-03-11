@@ -7,7 +7,7 @@
             <div class="col-md-12 text-center">
                 <div class="v-middle caption">
                     <h1>Vin Jour et Nuit <span>Naturel, Plaisant et Revitalisant</span></h1>
-                    <a href="#" data-scroll-nav="1" class="button-1 mt-20">Notre catalogue</a>
+                    <a href="http://localhost/vinjouretnuit/a-propos/" data-scroll-nav="1" class="button-1 mt-20">Notre histoire</a>
                 </div>
             </div>
         </div>
@@ -74,7 +74,7 @@
         </div>
         <div class="row">
             <div class="col-md-12 mt-30 text-center">
-                <a href="#" class="button-5">Nous contacter</a>
+                <a href="http://localhost/vinjouretnuit/nos-vins/" class="button-5">Commander</a>
             </div>
         </div>
     </div>
@@ -109,6 +109,13 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
+                <div class="section-head text-center">
+                    <div class="section-title">FAQ</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
                 <ul class="accordion-box clearfix">
                     <li class="accordion block">
                         <div class="acc-btn size-20">Question 1 ?</div>
@@ -137,7 +144,6 @@
                 </ul>
             </div>
         </div>
-
     </div>
 </section>
 

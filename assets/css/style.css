@@ -1376,7 +1376,7 @@ blockquote cite:before {
         margin-left: 0px;
     }
 
-    .nav-scroll .logo {}
+    /* .nav-scroll .logo {} */
 
     .logo-img {
         margin-bottom: 0px;
@@ -2047,7 +2047,7 @@ blockquote cite:before {
 
 .banner-header h1 {
     position: relative;
-    font-size: 42px;
+    font-size: 40px;
     line-height: 1em;
     color: #fff;
 }
@@ -2209,9 +2209,9 @@ blockquote cite:before {
 }
 
 @media screen and (max-width: 767px) {
-    .banner-header {}
+    /* .banner-header {}
 
-    .banner-header h5 {}
+    .banner-header h5 {} */
 
     .banner-header h1 {
         font-size: 36px;
@@ -5209,10 +5209,10 @@ button.mfp-arrow {
     line-height: 30px;
 }
 
-.main-shop .shop-sidebar .item .range {
+/* .main-shop .shop-sidebar .item .range {
     /* Style toddler input range */
-    /* Style track input range */
-}
+    /* Style track input range 
+} */
 
 .main-shop .shop-sidebar .item .range .filter-price {
     border: 0;
@@ -6856,6 +6856,7 @@ a:hover.post-repay {
 }
 
 .footer-about-social-list a {
+    margin-right: 10px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -6897,7 +6898,7 @@ a:hover.post-repay {
 
 .footer-explore-list li a:hover {
     padding-left: 15px;
-    color: #1b1b1b);
+    color: #1b1b1b;
 }
 
 .footer-explore-list li a:before {
@@ -6942,9 +6943,9 @@ a:hover.post-repay {
 }
 
 .footer-contact-phone {
-    font-family: "Cinzel Decorative", serif;
-    font-size: 20px;
-    color: #fff;
+    font-family: "League Spartan", sans-serif;
+    font-size: 15px;
+    color: #777;
     font-weight: 400;
     display: block;
     -webkit-transition: all 500ms ease;
