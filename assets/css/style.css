@@ -2427,7 +2427,8 @@ blockquote cite:before {
 .team-card {
     text-align: center;
     position: relative;
-    padding-bottom: 40px
+    padding-bottom: 40px;
+    margin-bottom: 40px;
 }
 
 .team-card .title-box {
@@ -3310,7 +3311,7 @@ hr.border-2 {
 
 
 /* ======= Services style ======= */
-.items .col-md-4 {
+.items > div {
     margin-bottom: 30px;
 }
 
@@ -3321,7 +3322,6 @@ hr.border-2 {
     transition: .5s;
     position: relative;
     z-index: 1;
-    /* margin-bottom: 30px; */
     line-height: 1;
     text-align: center;
     height: 100%;

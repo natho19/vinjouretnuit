@@ -17,7 +17,7 @@
 <section class="about section-padding">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 mb-30">
+            <div class="col-lg-6 mb-30">
                 <div class="section-head mb-20">
                     <div class="section-title">Une Passion, Une Tradition, Un Art</div>
                 </div>
@@ -28,8 +28,8 @@
                     <a href="#" class="button-5">Nous contacter</a>
                 </div>
             </div>
-            <div class="col col-md-3"> <img src="<?= VJN_IMG_URL . '/wine/5.jpg' ?>" alt="About" class="mt-90 mb-30"> </div>
-            <div class="col col-md-3"> <img src="<?= VJN_IMG_URL . '/wine/9.jpg' ?>" alt="About"> </div>
+            <div class="col col-lg-3"> <img src="<?= VJN_IMG_URL . '/wine/5.jpg' ?>" alt="About" class="mt-90 mb-30"> </div>
+            <div class="col col-lg-3"> <img src="<?= VJN_IMG_URL . '/wine/9.jpg' ?>" alt="About"> </div>
         </div>
     </div>
 </section>
@@ -45,34 +45,47 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-12">
-                <div class="owl-carousel owl-theme">
-                    <div class="team-card mb-30">
-                        <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/1.jpg' ?>" alt="" class="w-100"></div>
-                        <div class="team-content">
-                            <h3 class="team-title">Désiré Deklo<span>Executive Head Chef</span></h3>
-                        </div>
-                        <div class="title-box">
-                            <h3 class="mb-0">Désiré Deklo<span>Executive Head Chef</span></h3>
-                        </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="team-card">
+                    <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/1.jpg' ?>" alt="" class="w-100"></div>
+                    <div class="team-content">
+                        <h3 class="team-title">Désiré Deklo<span>Executive Head Chef</span></h3>
                     </div>
-                    <div class="team-card mb-30">
-                        <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/2.jpg' ?>" alt="" class="w-100"></div>
-                        <div class="team-content">
-                            <h3 class="team-title">Raphael Moss<span>Executive Head Chef</span></h3>
-                        </div>
-                        <div class="title-box">
-                            <h3 class="mb-0">Raphael Moss<span>Executive Head Chef</span></h3>
-                        </div>
+                    <div class="title-box">
+                        <h3 class="mb-0">Désiré Deklo<span>Executive Head Chef</span></h3>
                     </div>
-                    <div class="team-card mb-30">
-                        <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/5.jpg' ?>" alt="" class="w-100"></div>
-                        <div class="team-content">
-                            <h3 class="team-title">Raphael Moss<span>Executive Head Chef</span></h3>
-                        </div>
-                        <div class="title-box">
-                            <h3 class="mb-0">Raphael Moss<span>Executive Head Chef</span></h3>
-                        </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="team-card">
+                    <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/1.jpg' ?>" alt="" class="w-100"></div>
+                    <div class="team-content">
+                        <h3 class="team-title">Désiré Deklo<span>Executive Head Chef</span></h3>
+                    </div>
+                    <div class="title-box">
+                        <h3 class="mb-0">Désiré Deklo<span>Executive Head Chef</span></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="team-card">
+                    <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/1.jpg' ?>" alt="" class="w-100"></div>
+                    <div class="team-content">
+                        <h3 class="team-title">Désiré Deklo<span>Executive Head Chef</span></h3>
+                    </div>
+                    <div class="title-box">
+                        <h3 class="mb-0">Désiré Deklo<span>Executive Head Chef</span></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="team-card">
+                    <div class="team-img"><img src="<?= VJN_IMG_URL . '/team/1.jpg' ?>" alt="" class="w-100"></div>
+                    <div class="team-content">
+                        <h3 class="team-title">Désiré Deklo<span>Executive Head Chef</span></h3>
+                    </div>
+                    <div class="title-box">
+                        <h3 class="mb-0">Désiré Deklo<span>Executive Head Chef</span></h3>
                     </div>
                 </div>
             </div>
