@@ -74,7 +74,7 @@
         </div>
         <div class="row">
             <div class="col-md-12 mt-30 text-center">
-                <a href="http://localhost/vinjouretnuit/nos-vins/" class="button-5">Commander</a>
+                <a href="http://localhost/vinjouretnuit/nos-vins/" class="button-5">Notre catalogue</a>
             </div>
         </div>
     </div>
